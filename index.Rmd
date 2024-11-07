@@ -3,7 +3,6 @@ title: "week10"
 author: "Irene"
 date: "2024-11-07"
 output:
-  pdf_document: default
   html_document: default
 ---
 
